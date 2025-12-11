@@ -1,0 +1,43 @@
+name: comunicafacil
+description: Protótipo do aplicativo ComunicaFácil para apresentação na faculdade
+publish_to: 'none' # não publicar no pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # Gerenciamento de estado
+  provider: ^6.0.0
+
+  # Speech-to-Text (captura de fala)
+  speech_to_text: ^7.3.0
+
+  # Text-to-Speech (fala sintetizada)
+  flutter_tts: ^3.5.0
+
+  # Banco de dados local
+  hive: ^2.2.3
+  hive_flutter: ^1.1.0
+
+  # Acesso a diretórios locais
+  path_provider: ^2.0.11
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/ola.png
+    - assets/quero.png
+    - assets/comer.png
+    - assets/agua.png
+    - assets/banheiro.png
+    - assets/ajuda.png
