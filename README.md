@@ -1,16 +1,7 @@
-# comunicafacil
+# ComunicaFácil
 
-A new Flutter project.
+A proposta deste aplicativo nasce da necessidade de mitigar as barreiras comunicacionais recorrentes em serviços públicos e privados, onde a falta de intérpretes de Língua Brasileira de Sinais (Libras) geram atrasos, custos e riscos de violação de direitos (LOPES, GRIEBELER E VERGARA, 2020). 
+O desafio central abordado é a dificuldade de interação presencial enfrentada por pessoas surdas que possuem a Libras como primeira língua (L1) e apresentam baixa proficiência no português escrito.
+O objetivo é desenvolver o ComunicaFácil, um aplicativo móvel assistivo destinado a mediar essa comunicação bidirecional. A iniciativa justifica-se legalmente pela Lei Brasileira de Inclusão (Lei 13.146 de 2015), que estabelece a obrigatoriedade da acessibilidade comunicacional e o uso de tecnologias assistivas para garantir autonomia e cidadania.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
